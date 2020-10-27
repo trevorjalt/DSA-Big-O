@@ -268,8 +268,6 @@ function countingSheep(num) {
   }
   return 'All sheep jumped over the fence'
 }
-
-countingSheep(10)
 ````
 
 ````
@@ -281,8 +279,6 @@ function powerCalculator(baseNum, expNum) {
   }
   return baseNum ** expNum
 }
-
-powerCalculator (10, 2)
 ````
 
 ````
@@ -295,8 +291,6 @@ function reverseString(str) {
   }
   return reversedStr
 }
-
-reverseString('hello')
 ````
 
 ````
@@ -309,8 +303,6 @@ function triangularNumber(num) {
   }
   return nth
 }
-
-triangularNumber(9)
 ````
 
 ````
@@ -329,8 +321,6 @@ function stringSplitter(str, char) {
 
   return result
 }
-
-stringSplitter('20/20/2020', '/')
 ````
 
 ````
@@ -344,8 +334,6 @@ function fibonacci(num) {
   }
   return fib[num]
 }
-
-fibonacci(7)
 ````
 
 ````
@@ -360,8 +348,6 @@ function factorial(num) {
   }
   return num
 }
-
-factorial(5)
 ````
 
 ## 13) Recursive Big O
